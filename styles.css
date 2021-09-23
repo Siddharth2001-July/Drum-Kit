@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background-image: -webkit-linear-gradient(70deg, #f36868 50%,rgb(243, 207, 232) 12%,rgb(210, 240, 40));
 }
 
 h1 {
